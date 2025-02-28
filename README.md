@@ -1,6 +1,6 @@
 # Octave-simulator
 
-##Homework no 2 - PCLP##
+## Homework no 2 - PCLP
 
 This code is mainly based on the submission I have done last year, for the same
 homework, but improved, as the one last year did not pass any tests (my homework
